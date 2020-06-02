@@ -1,4 +1,7 @@
 # to-not-forget
+- 2020 / 06 / 02
+  - [ReactJs Interview Prep](https://github.com/sudheerj/reactjs-interview-questions)
+    - List of questions for a ReactJs Interview
 
 - 2020 / 06 / 01 
   - [Pony ORM](https://ponyorm.org/) 
