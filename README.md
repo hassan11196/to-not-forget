@@ -1,4 +1,8 @@
 # to-not-forget
+- 2020 / 06 / 07
+  - [Django drf-spectacular](https://github.com/tfranzel/drf-spectacular)
+    - Sane and flexible OpenAPI 3.0 schema generation for Django REST framework. Will have to see how it compares to Django Yasg.
+
 - 2020 / 06 / 02
   - [ReactJs Interview Prep](https://github.com/sudheerj/reactjs-interview-questions)
     - List of questions for a ReactJs Interview
