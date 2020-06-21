@@ -1,10 +1,12 @@
 # to-not-forget
+- 2020 / 06 / 21
+  - [Odoo Open Source ERP and CRM](https://www.odoo.com/)
+    - Open Source ERP, POS, CRM and other enterprise solutions.
+
 - 2020 / 06 / 20
   - [MIT Deep Learning Tutorials](https://github.com/lexfridman/mit-deep-learning)
     - Notebooks for deep learning.
     
-
-
 - 2020 / 06 / 10
   - [Django DRF Tracking](https://github.com/lingster/drf-api-tracking)
     - API Logging and tracking for Django DRF
