@@ -1,4 +1,8 @@
 # to-not-forget
+- 2020 / 06 / 23
+  - [TypeDoc](https://typedoc.org/)
+    - A documentation generator for TypeScript projects.
+
 - 2020 / 06 / 21
   - [Odoo Open Source ERP and CRM](https://www.odoo.com/)
     - Open Source ERP, POS, CRM and other enterprise solutions.
