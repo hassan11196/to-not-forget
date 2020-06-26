@@ -1,4 +1,18 @@
 # to-not-forget
+
+- 2020 / 06 / 26
+  - [Neural Network Intelligence](https://github.com/microsoft/nni)
+    - NNI (Neural Network Intelligence) is a lightweight but powerful toolkit to help users automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
+
+  - [modAl](https://github.com/modAL-python/modAL)
+    - Modular Active Learning framework for Python3
+  - [Auto Speech Recongnition](https://github.com/zzw922cn/Automatic_Speech_Recognition)
+    - End-to-end automatic speech recognition system implemented in TensorFlow.
+  - [RL Baselines Zoo](https://github.com/araffin/rl-baselines-zoo)
+    - A collection of trained Reinforcement Learning (RL) agents, with tuned hyperparameters, using Stable Baselines.
+  - [Time Series Forecasting](https://github.com/microsoft/forecasting)
+    - Time Series Forecasting Best Practices & Examples
+
 - 2020 / 06 / 23
   - [TypeDoc](https://typedoc.org/)
     - A documentation generator for TypeScript projects.
