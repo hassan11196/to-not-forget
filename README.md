@@ -12,7 +12,9 @@
     - A collection of trained Reinforcement Learning (RL) agents, with tuned hyperparameters, using Stable Baselines.
   - [Time Series Forecasting](https://github.com/microsoft/forecasting)
     - Time Series Forecasting Best Practices & Examples
-
+  - [Self Hosted Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted)
+    - A list of Free Software network services and web applications which can be hosted locally.
+    
 - 2020 / 06 / 23
   - [TypeDoc](https://typedoc.org/)
     - A documentation generator for TypeScript projects.
