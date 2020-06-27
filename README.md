@@ -1,5 +1,10 @@
 # to-not-forget
 
+- 2020 / 06 / 27
+  - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
+    - A curated list of awesome big data frameworks, ressources and other awesomeness.
+
+
 - 2020 / 06 / 26
   - [Neural Network Intelligence](https://github.com/microsoft/nni)
     - NNI (Neural Network Intelligence) is a lightweight but powerful toolkit to help users automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
