@@ -1,5 +1,9 @@
 # to-not-forget
 
+- 2020 / 06 / 28
+  - [Awesome django](https://github.com/wsvincent/awesome-django)
+    - A curated list of awesome things related to Django
+    
 - 2020 / 06 / 27
   - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
     - A curated list of awesome big data frameworks, ressources and other awesomeness.
