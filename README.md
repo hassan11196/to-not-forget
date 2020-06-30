@@ -1,5 +1,17 @@
 # to-not-forget
 
+- 2020 / 06 / 30
+  - [Typescript cheatsheet with Examples](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet)
+    - Fully printable summary of modern TypeScript language features with extensive examples to help you learn.
+  - [Typescript cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
+    - A set of TypeScript related notes used for quick reference. The cheatsheet contains references to types, classes, decorators, etc.
+  - [NodeJS starter with TypeScript](https://github.com/microsoft/TypeScript-Node-Starter)
+    - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
+  - [Node Hackathon Starter](https://github.com/sahat/hackathon-starter)
+    - A boilerplate for Node.js web applications
+  - [Mega Boilerplate](https://github.com/sahat/megaboilerplate)
+    - Handcrafted starter projects, optimized for simplicity and ease of use.
+
 - 2020 / 06 / 28
   - [Awesome django](https://github.com/wsvincent/awesome-django)
     - A curated list of awesome things related to Django
@@ -12,7 +24,6 @@
 - 2020 / 06 / 26
   - [Neural Network Intelligence](https://github.com/microsoft/nni)
     - NNI (Neural Network Intelligence) is a lightweight but powerful toolkit to help users automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
-
   - [modAl](https://github.com/modAL-python/modAL)
     - Modular Active Learning framework for Python3
   - [Auto Speech Recongnition](https://github.com/zzw922cn/Automatic_Speech_Recognition)
