@@ -1,6 +1,13 @@
 # to-not-forget
 
 - 2020 / 06 / 30
+  - [guietta PyQT Gui maker](https://github.com/alfiopuglisi/guietta)
+    - A tool for making simple Python GUIs
+  - [Awesome Readmes](https://github.com/matiassingers/awesome-readme)
+    - A curated list of awesome READMEs
+
+
+- 2020 / 06 / 30
   - [Typescript cheatsheet with Examples](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet)
     - Fully printable summary of modern TypeScript language features with extensive examples to help you learn.
   - [Typescript cheatsheet](https://rmolinamir.github.io/typescript-cheatsheet/)
