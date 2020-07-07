@@ -1,5 +1,13 @@
 # to-not-forget
 
+
+* 2020 / 07 / 07
+  * [Kaggle competitions and their winning solutions for classification problems.](https://github.com/ShuaiW/kaggle-classification)
+    * A compiled list of kaggle competitions and their winning solutions for classification problems.
+  * [Data Science Cheatsheet](https://github.com/ShuaiW/data-science-question-answer)
+    * A repo for data science related questions and answers
+  * [ML Cheatsheet](https://github.com/ShuaiW/ml-cheatsheet)
+    * A constantly updated python machine learning cheatsheet
 * 2020 / 06 / 30
   * [guietta PyQT Gui maker](https://github.com/alfiopuglisi/guietta)
     * A tool for making simple Python GUIs
