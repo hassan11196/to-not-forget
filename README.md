@@ -8,6 +8,8 @@
     * This General Adversarial Network can quickly be trained on any kind of images
   * [mljar](https://github.com/mljar/mljar-supervised)
     * Automated Machine Learning
+  * [Data Science NoteBooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+    * Huge Collection of Data Science Notebooks.
 
 
 * 2020 / 07 / 07
