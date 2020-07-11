@@ -1,6 +1,15 @@
 # to-not-forget
 
 
+* 2020 / 07 / 11
+  * [Ml Tools](https://github.com/DigitalGlobe/mltools)
+    * Tools for fast prototyping of object detection and classification solutions on DG imagery
+  * [Adaptive GAN](https://github.com/TrackLab/Adaptive-GAN)
+    * This General Adversarial Network can quickly be trained on any kind of images
+  * [mljar](https://github.com/mljar/mljar-supervised)
+    * Automated Machine Learning
+
+
 * 2020 / 07 / 07
   * [Kaggle competitions and their winning solutions for classification problems.](https://github.com/ShuaiW/kaggle-classification)
     * A compiled list of kaggle competitions and their winning solutions for classification problems.
