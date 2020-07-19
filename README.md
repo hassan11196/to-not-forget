@@ -1,5 +1,12 @@
 # to-not-forget
 
+* 2020 / 07 / 20
+  * [Django Quick Project setup](https://github.com/metakermit/generator-django-rest)
+    * Yeoman generator for a Django REST/GraphQL API, an optional React SPA & lots more!
+  * [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+    * An awesome list of references for MLOps - Machine Learning Operations.
+  * [Go Server](https://github.com/gofiber/fiber)
+    * ⚡️ Fiber is an Express inspired web framework written in Go with ☕️
 
 * 2020 / 07 / 11
   * [Ml Tools](https://github.com/DigitalGlobe/mltools)
