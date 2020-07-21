@@ -1,5 +1,21 @@
 # to-not-forget
 
+* 2020 / 07 / 21
+  * [Django Stubs](https://github.com/typeddjango/django-stubs)
+    * PEP-484 stubs for Django
+  * [Django Starter Template](https://github.com/wemake-services/wemake-django-template)
+    * This project is used to scaffold a django project structure. Just like django-admin.py startproject but better.
+  * [DRF Typed Views](https://github.com/rsinger86/drf-typed-views)
+    * Pydanctic models and validation with Marshmellow schemas that extend Django rest framework.
+  * [Awesome Python](https://github.com/vinta/awesome-python)
+    * A curated list of awesome Python frameworks, libraries, software and resources
+  * [MonkeyType](https://github.com/instagram/MonkeyType)
+    * A system for Python that generates static type annotations by collecting runtime types
+  * [shuup](https://github.com/shuup/shuup)
+    * E-Commerce Platform
+  * [Elyra Ai](https://github.com/elyra-ai/elyra)
+    * Elyra is a set of AI-centric extensions to JupyterLab Notebooks.
+
 * 2020 / 07 / 20
   * [Django Quick Project setup](https://github.com/metakermit/generator-django-rest)
     * Yeoman generator for a Django REST/GraphQL API, an optional React SPA & lots more!
