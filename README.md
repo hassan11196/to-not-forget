@@ -1,5 +1,12 @@
 # to-not-forget
 
+* 2020 / 07 / 25
+  * [Light Blue React Template](https://github.com/flatlogic/light-blue-react-template)
+    * Light Blue React Template - Admin Dashboard Template built with React
+  * [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers)
+     * This an awesome (rigorous and respectful) and curated (I read every suggestion and make judgement calls) list of cold showers on overhyped topics. 
+
+
 * 2020 / 07 / 24
   * [Node Express Boilerplate](https://github.com/danielfsousa/express-rest-es2017-boilerplate)
     * Boilerplate/Generator/Starter Project for building RESTful APIs and microservices using Node.js, Express and MongoDB
