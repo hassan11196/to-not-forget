@@ -1,5 +1,9 @@
 # to-not-forget
 
+* 2020 / 07 / 29
+  * [Django React Boilerplate](https://github.com/vintasoftware/django-react-boilerplate)
+    * Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+
 * 2020 / 07 / 25
   * [Light Blue React Template](https://github.com/flatlogic/light-blue-react-template)
     * Light Blue React Template - Admin Dashboard Template built with React
