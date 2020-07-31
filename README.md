@@ -1,5 +1,9 @@
 # to-not-forget
 
+* 2020 / 07 / 31
+  * [DjangoX](https://github.com/wsvincent/djangox)
+    * Django starter project with batteries
+
 * 2020 / 07 / 29
   * [Django React Boilerplate](https://github.com/vintasoftware/django-react-boilerplate)
     * Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
