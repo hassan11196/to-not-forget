@@ -1,5 +1,11 @@
 # to-not-forget
 
+* 2020 / 08 / 03
+  * [Lerna](https://github.com/lerna/lerna)
+    * A tool for managing JavaScript projects with multiple packages.
+  * [Functional Programming using JS](https://github.com/MostlyAdequate/mostly-adequate-guide)
+    * Mostly adequate guide to FP (in javascript)
+
 * 2020 / 07 / 31
   * [DjangoX](https://github.com/wsvincent/djangox)
     * Django starter project with batteries
