@@ -1,5 +1,10 @@
 # to-not-forget
 
+
+* 2021 / 04 / 19
+  * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
+    * basic and advanced Rust programming 
+
 * 2020 / 08 / 03
   * [Lerna](https://github.com/lerna/lerna)
     * A tool for managing JavaScript projects with multiple packages.
